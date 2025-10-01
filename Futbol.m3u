@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1, M. LaLiga 1080P
+acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947
+#EXTINF:-1, DAZN LaLiga 1080 MultiAudio
+acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1, LaLiga Hypermotion
+acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
+#EXTINF:-1, LaLiga Hypermotion 2
+acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
+#EXTINF:-1, M Plus
+acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+#EXTINF:-1, M Campeones 1080
+acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
